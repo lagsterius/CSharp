@@ -1,0 +1,4 @@
+C:\Users\mao\Documents\Visual Studio 2012\RNC_MRIK_UCHET\RNC_MRIK_UCHET\bin\Release\RNC_MRIK_UCHET.exe.config
+C:\Users\mao\Documents\Visual Studio 2012\RNC_MRIK_UCHET\RNC_MRIK_UCHET\obj\Release\RNC_MRIK_UCHET.frm_login.resources
+C:\Users\mao\Documents\Visual Studio 2012\RNC_MRIK_UCHET\RNC_MRIK_UCHET\obj\Release\RNC_MRIK_UCHET.Properties.Resources.resources
+C:\Users\mao\Documents\Visual Studio 2012\RNC_MRIK_UCHET\RNC_MRIK_UCHET\obj\Release\RNC_MRIK_UCHET.csproj.GenerateResource.Cache

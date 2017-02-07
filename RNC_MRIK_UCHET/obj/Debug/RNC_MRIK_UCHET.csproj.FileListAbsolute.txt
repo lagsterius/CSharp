@@ -1,0 +1,15 @@
+C:\Users\mao\Documents\Visual Studio 2012\RNC_MRIK_UCHET\RNC_MRIK_UCHET\bin\Debug\RNC_MRIK_UCHET.exe.config
+C:\Users\mao\Documents\Visual Studio 2012\RNC_MRIK_UCHET\RNC_MRIK_UCHET\obj\Debug\RNC_MRIK_UCHET.csprojResolveAssemblyReference.cache
+C:\Users\mao\Documents\Visual Studio 2012\RNC_MRIK_UCHET\RNC_MRIK_UCHET\obj\Debug\RNC_MRIK_UCHET.Properties.Resources.resources
+C:\Users\mao\Documents\Visual Studio 2012\RNC_MRIK_UCHET\RNC_MRIK_UCHET\obj\Debug\RNC_MRIK_UCHET.csproj.GenerateResource.Cache
+C:\Users\mao\Documents\Visual Studio 2012\RNC_MRIK_UCHET\RNC_MRIK_UCHET\bin\Debug\RNC_MRIK_UCHET.exe
+C:\Users\mao\Documents\Visual Studio 2012\RNC_MRIK_UCHET\RNC_MRIK_UCHET\bin\Debug\RNC_MRIK_UCHET.pdb
+C:\Users\mao\Documents\Visual Studio 2012\RNC_MRIK_UCHET\RNC_MRIK_UCHET\obj\Debug\RNC_MRIK_UCHET.exe
+C:\Users\mao\Documents\Visual Studio 2012\RNC_MRIK_UCHET\RNC_MRIK_UCHET\obj\Debug\RNC_MRIK_UCHET.pdb
+C:\Users\mao\Documents\Visual Studio 2012\RNC_MRIK_UCHET\RNC_MRIK_UCHET\obj\Debug\RNC_MRIK_UCHET.frm_login.resources
+C:\Users\mao\Documents\Visual Studio 2012\RNC_MRIK_UCHET\RNC_MRIK_UCHET\obj\Debug\RNC_MRIK_UCHET.frm_main.resources
+C:\Users\mao\Documents\Visual Studio 2012\RNC_MRIK_UCHET\RNC_MRIK_UCHET\obj\Debug\RNC_MRIK_UCHET.frm_spr.resources
+C:\Users\mao\Documents\Visual Studio 2012\RNC_MRIK_UCHET\RNC_MRIK_UCHET\obj\Debug\RNC_MRIK_UCHET.frm_devices.resources
+C:\Users\mao\Desktop\RNC_MRIK_UCHET\RNC_MRIK_UCHET\bin\Debug\RNC_MRIK_UCHET.exe.config
+C:\Users\mao\Desktop\RNC_MRIK_UCHET\RNC_MRIK_UCHET\obj\Debug\RNC_MRIK_UCHET.exe
+C:\Users\mao\Desktop\RNC_MRIK_UCHET\RNC_MRIK_UCHET\obj\Debug\RNC_MRIK_UCHET.pdb
